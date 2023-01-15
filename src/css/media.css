@@ -1,0 +1,45 @@
+@media(max-width: 550px) {
+    main {
+        width: 450px;
+    }
+}
+
+@media(max-width: 489px) {
+    main {
+        width: 400px;
+    }
+}
+
+@media(max-width: 436px) {
+    main {
+        width: 350px;
+    }
+}
+
+@media(max-width: 385px) {
+    main {
+        width: 300px;
+    }
+
+    .results-container {
+        min-height: 120px;
+    }
+
+    .submitBt {
+        height: 50px;
+    }
+
+    .middle {
+        height: 150px;
+    }
+}
+
+@media(max-width: 335px) {
+    main {
+        width: 250px;
+    }
+
+    .submitBtn {
+        width: 150px;
+    }
+}
